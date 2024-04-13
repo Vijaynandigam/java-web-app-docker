@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>We will work hard to Bring back BABU GARU AS CM OF AP</h2>
-			<h3>PSYCHO POVALI CYCLE RAVALI</h3>
+			<h2>Nake telusu ra  Nuvvu idi open chestav ani</h2>
+			<h3>POTTI NAA BATTA, FUCK YOU MATE</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2023</p>
+		<p>&copy; Purushotapatnam pottodu</p>
 	</footer>
 </div>
 
